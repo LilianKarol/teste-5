@@ -1,0 +1,36 @@
+body {
+  background-image: url("https://cdn.shopify.com/s/files/1/0285/1316/products/w0495_1s_Geometric-Shapes-Pattern-Wallpaper_Repeating-Pattern-Sample-1_5d905131-f092-48af-93a4-d2d96996bb60.jpg?v=1586443731");
+  background-size: auto 100vh;
+  font-family: Arial;
+  height: auto 100vh;
+}
+
+.menu{
+  background-color: white;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu li {
+  list-style: none;
+}
+
+a {
+  color: teal;
+text-decoration: none;  
+}
+
+a:hover {
+ text-decoration: underline;
+}
+
+.site-subtitle,
+.site-title {
+  color:RoyalBlue;
+  text-align: center;
+}
+
+  
